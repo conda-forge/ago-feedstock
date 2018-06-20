@@ -36,7 +36,7 @@ about:
   # No license file, just stated in README.rst
   license_file: README.rst
   license: Public Domain
-  icense_family: OTHER
+  license_family: OTHER
   summary: 'ago: Human readable timedeltas'
   dev_url: https://bitbucket.org/russellballestrini/ago/
   doc_url: https://bitbucket.org/russellballestrini/ago/
